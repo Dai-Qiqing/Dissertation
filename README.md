@@ -1,4 +1,7 @@
-# Social Comfort Wearable — ESP32 + MAX30102 + HC‑SR04
+
+# **PeriSense** 
+
+## Social Comfort Wearable Device — ESP32 + MAX30102 + HC‑SR04
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-ESP32-red.svg)](https://www.espressif.com/)
